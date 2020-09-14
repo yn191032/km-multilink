@@ -41,7 +41,7 @@ function App() {
             className={clsx(classes.button, classes.phone)}
             startIcon={<PhoneIcon />}
             component='a'
-            href='tel:375293319233'
+            href='tel:+375293319233'
             >
             Позвонить
           </Button>
@@ -80,7 +80,7 @@ function App() {
             className={clsx(classes.button, classes.telegram)}
             startIcon={<TelegramIcon />}
             component='a'
-            href='https://t.me/375293319233'
+            href='https://t.me/DmitriyChupin'
             >
             Написать в телеграм
           </Button>
