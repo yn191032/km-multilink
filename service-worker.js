@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/km-multilink/precache-manifest.d46738d28a1de2939abe74353d7a24f7.js"
+  "/km-multilink/precache-manifest.666d3dd7a3f317a96b510568b58e929c.js"
 );
 
 self.addEventListener('message', (event) => {
